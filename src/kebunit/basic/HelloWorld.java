@@ -1,5 +1,12 @@
 package kebunit.basic;
 
+/**
+ *
+ * @author Sabituddin Bigbang
+ * @since 2019
+ *
+ */
+
 public class HelloWorld {
     // member of class
     private String message;

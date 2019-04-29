@@ -1,4 +1,12 @@
 package kebunit.basic;
+
+/**
+ *
+ * @author Sabituddin Bigbang
+ * @since 2019
+ *
+ */
+
 public class BasicType {
     // class member
     private char iniChar;

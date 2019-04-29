@@ -1,5 +1,11 @@
 package kebunit.basic;
 
+/**
+ * @author Sabituddin Bigbang
+ * @since 2019
+ * @param <T>
+ */
+
 public class GenericExample<T> {
     private T variable;
 
