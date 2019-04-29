@@ -15,6 +15,9 @@
 <li>JSON Object</li>
 <li>...</li>
 
-#### Design Patter
+#### Design Pattern
 <li>Singleton</li>
+<li>...</li>
+
+#### Mini Apps
 <li>...</li>
