@@ -1,13 +1,13 @@
 # Java Completes
-####Java Basic Algortihm
+###Java Basic Algortihm
 <li>Hello World</li>
 <li>Basic Type</li>
 <li>Generic</li>
 
-####Core Library
+###Core Library
 <li>Exception</li>
 <li>Serializable</li>
 <li>Thread</li>
 
-####External Library
+###External Library
 <li>JSON Object</li>
