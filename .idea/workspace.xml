@@ -2,15 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98f9e1fd-4920-47d1-aa7f-571e2ce8781a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kebunit/basic/IfelseSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/basic/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/basic/OverloadingVsOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/collection/EnumerationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/collection/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/collection/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/collection/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kebunit/miniapps/CreateImageFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/MainApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/PaperPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/PrinterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/ScreenPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/WebPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/Toolbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/WindowBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/MainApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/MainApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/ShapeProtoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,33 +52,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="18" />
-          <entry key="md" value="2" />
+          <entry key="java" value="53" />
+          <entry key="md" value="5" />
           <entry key="png" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="1" />
+          <entry key="Git file" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="18" />
-          <entry key="Markdown" value="2" />
+          <entry key="JAVA" value="53" />
+          <entry key="Markdown" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="1477" />
-          <entry key="md" value="235" />
+          <entry key="java" value="1489" />
+          <entry key="md" value="370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1477" />
-          <entry key="Markdown" value="235" />
+          <entry key="JAVA" value="1489" />
+          <entry key="Markdown" value="370" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -66,120 +87,133 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/basic/Loop.java">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainApps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-765">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/collection/EnumerationExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/collection/ListExample.java">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/basic/OverloadingVsOverriding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1043#1044#0" expanded="true" />
-                <element signature="e#1089#1090#0" expanded="true" />
-                <element signature="e#1124#1125#0" expanded="true" />
-                <element signature="e#1178#1179#0" expanded="true" />
-                <element signature="e#1218#1219#0" expanded="true" />
-                <element signature="e#1280#1281#0" expanded="true" />
-                <element signature="e#1325#1326#0" expanded="true" />
-                <element signature="e#1354#1355#0" expanded="true" />
-                <element signature="e#1392#1393#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
-                <element signature="e#1479#1480#0" expanded="true" />
-                <element signature="e#1537#1538#0" expanded="true" />
-                <element signature="e#1564#1565#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/basic/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-159">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/collection/MapExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/collection/SetExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
-                <element signature="e#1029#1030#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/externallib/JsonExample.java">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="312">
+                <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainApps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kebunit/miniapps/CreateImageFromString.java">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/ShapeProtoType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="e#152#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/MainApps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -209,7 +243,6 @@
         <option value="$PROJECT_DIR$/src/kebunit/basic/BasicType.java" />
         <option value="$PROJECT_DIR$/src/kebunit/basic/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/kebunit/externallib/JsonExample.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/kebunit/basic/IfElseSwith.java" />
         <option value="$PROJECT_DIR$/src/kebunit/basic/IfelseSwitch.java" />
         <option value="$PROJECT_DIR$/src/kebunit/basic/OverloadingVsOverriding.java" />
@@ -222,6 +255,34 @@
         <option value="$PROJECT_DIR$/src/kebunit/miniapps/CreateBmpFromString.java" />
         <option value="$PROJECT_DIR$/src/kebunit/miniapps/CreateImageFromString.java" />
         <option value="$PROJECT_DIR$/src/kebunit/externallib/SftpExample.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/asa.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/FactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/PaperPrinter.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/Printer.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/ScreenPrinter.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/WebPrinter.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Circle.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Shape.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Square.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/PrinterFactory.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/MainApps.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/WindowBuilder.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainApps.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainApps.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Circle.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Shape.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/ShapePrototype.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Square.java" />
+        <option value="$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/MainApps.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -279,14 +340,7 @@
               <item name="JavaCompletes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kebunit" type="462c0819:PsiDirectoryNode" />
-              <item name="externallib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCompletes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCompletes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kebunit" type="462c0819:PsiDirectoryNode" />
-              <item name="miniapps" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCompletes" type="b2602c69:ProjectViewProjectNode" />
@@ -306,7 +360,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556640199682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556642083993" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/json-simple-1.1.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,13 +386,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CreateImageFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kebunit.miniapps.CreateImageFromString" />
+  <component name="RunManager" selected="Application.MainApps (4)">
+    <configuration name="MainApps (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kebunit.designpattern.creational.abstractfactory.MainApps" />
       <module name="JavaCompletes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kebunit.miniapps.*" />
+          <option name="PATTERN" value="kebunit.designpattern.creational.abstractfactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kebunit.collection.ListExample" />
+    <configuration name="MainApps (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kebunit.designpattern.creational.builder.MainApps" />
       <module name="JavaCompletes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kebunit.collection.*" />
+          <option name="PATTERN" value="kebunit.designpattern.creational.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kebunit.basic.Loop" />
+    <configuration name="MainApps (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kebunit.designpattern.creational.singleton.MainApps" />
       <module name="JavaCompletes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kebunit.basic.*" />
+          <option name="PATTERN" value="kebunit.designpattern.creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,12 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kebunit.collection.MapExample" />
+    <configuration name="MainApps (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kebunit.designpattern.creational.prototype.MainApps" />
       <module name="JavaCompletes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kebunit.collection.*" />
+          <option name="PATTERN" value="kebunit.designpattern.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,12 +439,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kebunit.collection.SetExample" />
+    <configuration name="MainApps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kebunit.designpattern.creational.factory.MainApps" />
       <module name="JavaCompletes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kebunit.collection.*" />
+          <option name="PATTERN" value="kebunit.designpattern.creational.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,19 +453,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Loop" />
-      <item itemvalue="Application.ListExample" />
-      <item itemvalue="Application.MapExample" />
-      <item itemvalue="Application.SetExample" />
-      <item itemvalue="Application.CreateImageFromString" />
+      <item itemvalue="Application.MainApps" />
+      <item itemvalue="Application.MainApps (1)" />
+      <item itemvalue="Application.MainApps (2)" />
+      <item itemvalue="Application.MainApps (3)" />
+      <item itemvalue="Application.MainApps (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateImageFromString" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.MainApps (4)" />
+        <item itemvalue="Application.MainApps (3)" />
+        <item itemvalue="Application.MainApps (2)" />
+        <item itemvalue="Application.MainApps" />
+        <item itemvalue="Application.MainApps (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -427,12 +481,12 @@
       <updated>1556533236706</updated>
       <workItem from="1556533243339" duration="1365000" />
       <workItem from="1556543587812" duration="2520000" />
-      <workItem from="1556636830333" duration="2966000" />
+      <workItem from="1556636830333" duration="4850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6851000" />
+    <option name="totallyTimeSpent" value="8735000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,8 +499,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="0" width="1335" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -462,7 +517,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32901135" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32901135" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32901135" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.4489465" />
@@ -492,17 +547,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kebunit/basic/Hello.java" />
-    <entry file="file://$PROJECT_DIR$/src/kebunit/corelib/ExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kebunit/corelib/SerializableExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -517,16 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -584,16 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-765">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kebunit/collection/EnumerationExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,6 +703,332 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/collection/EnumerationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/PaperPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/ScreenPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/WebPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/PrinterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/asa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/sds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/abstractfactory/MainApps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/factory/MainApps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/WindowBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/Toolbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/builder/MainApps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/singleton/MainApps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/ShapeProtoType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#152#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kebunit/designpattern/creational/prototype/MainApps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

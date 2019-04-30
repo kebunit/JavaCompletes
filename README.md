@@ -23,6 +23,12 @@
 <li>...</li>
 
 #### Design Pattern
+##### 1. Creational Design Pattern
+> how to create object 
+<li>Factory</li>
+<li>Abstract Factory</li>
+<li>Builder</li>
+<li>Prototype</li>
 <li>Singleton</li>
 <li>...</li>
 
