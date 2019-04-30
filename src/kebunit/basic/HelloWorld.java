@@ -14,7 +14,6 @@ public class HelloWorld {
     // constructor
     public HelloWorld(String message) {
         this.message = message;
-
     }
 
     // getter
