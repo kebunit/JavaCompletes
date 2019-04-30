@@ -26,7 +26,7 @@ public class BasicType {
         iniInteger = 123;
         iniLong = 123456;
 
-        iniFloat = 123;
+        iniFloat = 123.888f;
         iniDouble = 123456.789;
     }
 
