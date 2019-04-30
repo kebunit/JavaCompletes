@@ -20,14 +20,19 @@ public class BasicType {
 
     // constructor
     public BasicType() {
+        // karakter
         iniChar = 'A';
+
+        // text
         iniString = "Sabituddin Bigbang";
 
-        iniInteger = 123;
-        iniLong = 123456;
+        // bilangan bulat
+        iniInteger = 123; // 32-bit
+        iniLong = 123456; // 64-bit
 
-        iniFloat = 123.888f;
-        iniDouble = 123456.789;
+        // bilangan desimal
+        iniFloat = 123.888f;  // 32-bit
+        iniDouble = 123456.789; // 64-bit
     }
 
     // method
