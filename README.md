@@ -3,6 +3,9 @@
 <li>Hello World</li>
 <li>Basic Type</li>
 <li>Generic</li>
+<li>If Else Switch</li>
+<li>Loop</li>
+<li>Overloading Vs Overriding</li>
 <li>...</li>
 
 #### Core Library
